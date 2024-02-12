@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BOUNDA667
+- 👋 Hi, I’m @BOUNDA
 - 👀 I’m interested in programmation.
 - 🌱 I’m currently learning Jetpack Compose and React.
 - 💞️ I’m looking to collaborate on all projects includes any langage.
