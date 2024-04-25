@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BOUNDA
 - 👀 I’m interested in programmation.
-- 🌱 I’m currently learning Jetpack Compose and React.
+- 🌱 I’m currently develop with Flutter/Dart and React/TS.
 - 💞️ I’m looking to collaborate on all projects includes any langage.
 - 📫 How to reach me sledgepercy222@gmail.com
 
