@@ -12,15 +12,15 @@
 
 ---
 
-## 🚀 À propos de moi  
-- 💻 Développeur Full‑Stack passionné (Flutter, Jetpack Compose, ReactTS…)  
-- 🌱 Actuellement en train d’explorer **NestJS**, **Go**, et **Machine Learning**  
-- 📫 Pour toute question ou collaboration : [sledgepercy222@gmail.com](mailto:sledgepercy222@gmail.com)  
+## 🚀 À propos de moi
+- 💻 Développeur Full‑Stack passionné (Flutter, Jetpack Compose, ReactTS…)
+- 🌱 Actuellement en train d’explorer **NestJS**, **Go**, et **Machine Learning**
+- 📫 Pour toute question ou collaboration : [sledgepercy222@gmail.com](mailto:sledgepercy222@gmail.com)
 
 ---
 
-## 🔧 Ma stack  
-<p align="left">
+## 🔧 Ma stack
+<p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&style=for-the-badge" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&style=for-the-badge" alt="Dart" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&style=for-the-badge" alt="Kotlin" />
@@ -33,42 +33,34 @@
 
 ---
 
-## 🎨 Animations & GIFs  
+## 🎨 Animations & GIFs
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif" alt="Coding Gif" width="300" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="400" />
 </p>
-
 <p align="center">
-  <!-- Exemple de Lottie Embed -->
-  <iframe src="https://lottie.host/4e7123ff-8c5b-4bfa-b6a1-abcdef123456/index.html" frameborder="0" width="200" height="200"></iframe>
+  <iframe src="https://lottie.host/embed/e5d16c4f-1277-472d-8f9f-6e5e9b8f3a3e/KVl6wOVE54.json" frameborder="0" width="300" height="300"></iframe>
 </p>
 
 ---
 
-## 🏆 Mes trophées GitHub  
+## 🏆 Mes trophées GitHub
 [![trophy](https://github-profile-trophy.vercel.app/?username=BOUNDA667&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 📊 Langages & Contributions  
+## 📊 Langages & Contributions
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BOUNDA667&layout=compact&theme=radical)
 
 ---
 
-## 📝 Mes derniers articles  
-<!--  
-Pour automatiser cette section, utilisez une GitHub Action qui parse votre flux RSS et met à jour ce bloc.  
-Exemple de badge RSS :  
-[![RSS](https://img.shields.io/badge/RSS-FF6600?logo=rss&style=for-the-badge)](https://votre-blog.com/rss)  
--->
-
-1. [Titre de l’article 1](#) – résumé rapide…  
-2. [Titre de l’article 2](#) – résumé rapide…  
+## 📝 Mes derniers articles
+1. [Titre de l’article 1](#) – résumé rapide…
+2. [Titre de l’article 2](#) – résumé rapide…
 3. [Titre de l’article 3](#) – résumé rapide…
 
 ---
 
-## 🤝 Collaborations & Sponsors  
+## 🤝 Collaborations & Sponsors
 <p align="center">
   <a href="https://github.com/sponsors/BOUNDA667">
     <img src="https://img.shields.io/badge/Sponsor-You%20have%20the%20power-FE428E?logo=github&style=for-the-badge" alt="Sponsor me" />
@@ -80,7 +72,7 @@ Exemple de badge RSS :
 
 ---
 
-## 📫 Me trouver ailleurs  
+## 📫 Me trouver ailleurs
 <p align="center">
   <a href="https://twitter.com/BOUNDA667">
     <img src="https://img.shields.io/twitter/follow/BOUNDA667?logo=twitter&style=for-the-badge" alt="Follow on Twitter" />
@@ -96,5 +88,5 @@ Exemple de badge RSS :
 ---
 
 <p align="center">
-  Merci de votre visite ! 🚀  
+  Merci de votre visite ! 🚀
 </p>
