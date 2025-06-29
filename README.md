@@ -46,9 +46,7 @@ Copier
 
 <p align="center">
    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="300"/>
-   <img src="https://media.giphy.com/media/3o7TKSQge14H4HUQAO/giphy.gif" alt="Programming GIF" width="300"/>
-   <img src="https://media.giphy.com/media/3o7TKRrEi7k3fzV8Aw/giphy.gif" alt="Coding Animation" width="300"/>
-   <iframe src="https://lottie.host/embed/e5d16c4f-1277-472d-8f9f-6e5e9b8f3a3e/KVl6wOVE54.json" frameborder="0" width="300" height="300"></iframe>
+   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="300" />
 </p>
 
 ---
