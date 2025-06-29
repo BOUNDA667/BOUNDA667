@@ -42,18 +42,16 @@ Copier
 
 ---
 
-## 🎨 Coding Animations & GIFs
+## 🎨 Coding with Passion
 
 <p align="center">
    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="300"/>
    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="300" />
 
-   <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="400" />
-</p>
-<p align="center">
-  <iframe src="https://lottie.host/embed/e5d16c4f-1277-472d-8f9f-6e5e9b8f3a3e/KVl6wOVE54.json" frameborder="0" width="300" height="300"></iframe>
-</p>
+     <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVy0/giphy.gif" width="180" alt="Terminal Typing" />
+  <img src="https://media.giphy.com/media/l4Jz3a8jO92crUlWM/giphy.gif" width="180" alt="Matrix Code Rain" />
+  <img src="https://media.giphy.com/media/26gsqQxPQXHBiBEUU/giphy.gif" width="180" alt="VS Code Live Edit" />
+  <img src="https://media.giphy.com/media/xUOwG8odV8wM0atseI/giphy.gif" width="180" alt="Coding Flow" />
    
 </p>
 
