@@ -1,7 +1,3 @@
-Je vais effectuer une recherche web pour trouver des GIFs et animations pertinentes et mises à jour.
-Voici une version mise à jour et enrichie de votre profil GitHub avec des animations centrées, une section renommée, et des badges supplémentaires :
-
-Copier
 # 👋 Hello, I'm **Percy**
 
 <p align="center">
