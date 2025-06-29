@@ -2,7 +2,7 @@ Je vais effectuer une recherche web pour trouver des GIFs et animations pertinen
 Voici une version mise à jour et enrichie de votre profil GitHub avec des animations centrées, une section renommée, et des badges supplémentaires :
 
 Copier
-# 👋 Hello, I'm **@BOUNDA667**
+# 👋 Hello, I'm **Percy**
 
 <p align="center">
    <a href="https://github.com/BOUNDA667">
@@ -46,9 +46,9 @@ Copier
 
 <p align="center">
    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="300"/>
+   <img src="https://media.giphy.com/media/l4Jz3a8jO92crUlWM/giphy.gif" alt="Matrix Code Rain" width="300"/>
    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="300" />
-  <img src="https://media.giphy.com/media/l4Jz3a8jO92crUlWM/giphy.gif" alt="Matrix Code Rain" width="300"/>
-  <img src="https://media.giphy.com/media/26gsqQxPQXHBiBEUU/giphy.gif" alt="VS Code Live Edit" width="300"/>
+  
 </p>
 
 ---
@@ -62,14 +62,6 @@ Copier
 ## 📊 Languages & Contributions
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BOUNDA667&layout=compact&theme=radical)
-
----
-
-## 📝 My Latest Articles
-
-1. [Title of Article 1](#) – brief summary…
-2. [Title of Article 2](#) – brief summary…
-3. [Title of Article 3](#) – brief summary…
 
 ---
 
