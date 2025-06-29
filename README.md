@@ -47,12 +47,8 @@ Copier
 <p align="center">
    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="300"/>
    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="300" />
-
-     <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVy0/giphy.gif" width="180" alt="Terminal Typing" />
-  <img src="https://media.giphy.com/media/l4Jz3a8jO92crUlWM/giphy.gif" width="180" alt="Matrix Code Rain" />
-  <img src="https://media.giphy.com/media/26gsqQxPQXHBiBEUU/giphy.gif" width="180" alt="VS Code Live Edit" />
-  <img src="https://media.giphy.com/media/xUOwG8odV8wM0atseI/giphy.gif" width="180" alt="Coding Flow" />
-   
+  <img src="https://media.giphy.com/media/l4Jz3a8jO92crUlWM/giphy.gif" alt="Matrix Code Rain" width="300"/>
+  <img src="https://media.giphy.com/media/26gsqQxPQXHBiBEUU/giphy.gif" alt="VS Code Live Edit" width="300"/>
 </p>
 
 ---
