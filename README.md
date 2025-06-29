@@ -47,6 +47,14 @@ Copier
 <p align="center">
    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="300"/>
    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="300" />
+
+   <p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="400" />
+</p>
+<p align="center">
+  <iframe src="https://lottie.host/embed/e5d16c4f-1277-472d-8f9f-6e5e9b8f3a3e/KVl6wOVE54.json" frameborder="0" width="300" height="300"></iframe>
+</p>
+   
 </p>
 
 ---
